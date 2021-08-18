@@ -1,0 +1,21 @@
+{
+  "name": "employee-trackerhw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6",
+    "mysql": "^2.18.1",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
